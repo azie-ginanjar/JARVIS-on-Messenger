@@ -10,6 +10,7 @@ QUOTES_SOURCE_FILE = 'data/quotes.json'
 
 # Access token files
 SPOTIFY_TOKEN_FILE = 'tokens/spotify_token.json'
+QUANDL_API_KEY = 'tokens/quandl_token.json'
 
 # API Keys
 GOODREADS_ACCESS_TOKEN = '<<GOODREADS_ACCESS_TOKEN>>'

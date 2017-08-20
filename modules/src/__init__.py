@@ -4,6 +4,7 @@ __all__ = [
     'book',
     'bye',
     'coin',
+    'commodity',
     'currency',
     'dice',
     'dictionary',
